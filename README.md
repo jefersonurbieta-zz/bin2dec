@@ -23,6 +23,7 @@
 
   <h3 align="center">Bin2Dec</h3>
 
+
   <p align="center">
     An awesome application for converting binary numbers!
     <br />
