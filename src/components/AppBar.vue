@@ -15,7 +15,7 @@
 
         <v-spacer/>
 
-        <about-pomodoro/>
+        <about-numeral-system/>
     </v-app-bar>
 </template>
 

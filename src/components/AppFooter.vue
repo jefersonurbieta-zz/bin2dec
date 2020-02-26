@@ -4,7 +4,7 @@
             color="transparent">
         <v-col class="me"
                cols="4">
-            <a class="me" href="https://github.com/JefersonUrbieta/pomodoro"><i class="fab fa-github"></i> View on GitHub</a>
+            <a class="me" href="https://github.com/JefersonUrbieta/bin2dec"><i class="fab fa-github"></i> View on GitHub</a>
         </v-col>
         <v-spacer/>
         <v-col class="text-right me"
