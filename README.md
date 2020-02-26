@@ -54,8 +54,7 @@
 
 Application for converting binary numbers.
 
-The Pomodoro technique is a time management method developed by Francesco Cirillo in the late 1980s. 
-The technique uses a timer to divide work into intervals, traditionally 25 minutes long, separated by short intervals - 5 minutes.
+Bin2Dec allows the user to enter strings of up binary digits, 0's and 1's, in any sequence and then displays its decimal equivalent.
 
 The idea of developing this application came from the video [More 80 ideas to learn to program](https://www.youtube.com/watch?v=H4CCPaYLTWg&t) by [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) where the [App Ideas Collection](https://github.com/florinpop17/app-ideas) repository of [Florin Pop](https://github.com/florinpop17) was presented. 
 I was very excited about the projects, because the ideas in it are very good for spending time programming.
