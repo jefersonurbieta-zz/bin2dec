@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: "/bin2dec",
+  publicPath: "/bin2decc",
   "transpileDependencies": [
     "vuetify"
   ]
