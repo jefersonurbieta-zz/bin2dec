@@ -21,10 +21,10 @@
     <img src="images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Pomodoro</h3>
+  <h3 align="center">Bin2Dec</h3>
 
   <p align="center">
-    An awesome application of the bin2dec technique!
+    An awesome application for converting binary numbers!
     <br />
     <a href="https://jefersonurbieta.github.io/bin2dec">View Demo</a>
     ·
@@ -51,8 +51,6 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]][demo-url]
-
-Application for converting binary numbers.
 
 Bin2Dec allows the user to enter strings of up binary digits, 0's and 1's, in any sequence and then displays its decimal equivalent.
 
