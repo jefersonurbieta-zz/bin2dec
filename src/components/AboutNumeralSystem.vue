@@ -82,7 +82,7 @@
 
                 <p>The <strong>hexadecimal system (shortly hex)</strong>, uses the number 16 as its base (radix). As a
                     base-16 numeral system, it uses 16 symbols. These are the 10 decimal digits (0, 1, 2, 3, 4, 5, 6, 7,
-                    8, 9) and the first six letters of the English alphabet (A, B, C, D, E, F). The letters are used
+                    8, 9) and the first six letters of the English alphabet (A, B, C, D, E, F). The letters are used
                     because of the need to represent the values 10, 11, 12, 13, 14 and 15 each in one single symbol.</p>
                 <p>Hex is used in mathematics and information technologies as a more friendly way to represent binary
                     numbers. Each hex digit represents four binary digits; therefore, hex is a language to write binary
